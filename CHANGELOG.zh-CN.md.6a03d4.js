@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{1565:function(e,t){e.exports={content:["article",["p",["code","antd"]," 严格遵循 ",["a",{title:null,href:"http://semver.org/lang/zh-CN/"},"Semantic Versioning 2.0.0"]," 语义化版本规范。"]],meta:{order:6,title:"更新日志",toc:!1,timeline:!0,filename:"CHANGELOG.zh-CN.md"},toc:["ul"]}}}]);
